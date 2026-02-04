@@ -12,10 +12,10 @@
 <h1>อุบลวรรณ ลีล้าน้อย(พรีม)</h1>
 
 <?php
-    $_SESSION['name'] = "อุบลวรรณ ลีล้าน้อย";
-	$_SESSION['nikname'] = "พรีม";
-	$_SESSION['p1'] = "โซฟา";
-	$_SESSION['p2']= "ห่วงยาง";
+    echo $_SESSION['name'] = "<br>";
+	echo $_SESSION['nikname'] = "<br>";
+	echo $_SESSION['p1'] = "<br>";
+	echo $_SESSION['p2']= "<br>";
 ?>
 </body>
 </html>
