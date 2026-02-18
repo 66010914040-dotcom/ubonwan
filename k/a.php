@@ -11,8 +11,8 @@
     เปิดรูปที่ 1
 </button>
 
-<button onclick="showImage(a'2.jpg', this)" 
-        style="background-color:orange; color:white; padding:10px; border:none;">
+<button style="background-color:orange; color:white; padding:10px; border:none;"
+    onclick="showImage(a'2.jpg', this)" >
     เปิดรูปที่ 2
 </button>
 
