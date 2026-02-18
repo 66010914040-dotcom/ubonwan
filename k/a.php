@@ -12,13 +12,13 @@
 </button>
 
 <button style="background-color:orange; color:white; padding:10px; border:none;"
-    onclick="showImage(a'2.jpg', this)" >
+    onclick="showImage('2.jpg', this)" >
     เปิดรูปที่ 2
 </button>
 
 <script>
 function showImage(imgSrc, btn){
-    btn.innerHTML = "<img src='" + imgSrc + "' width='150'>";
+    btn.innerHTML = "<img src='" + imgSrc + "' width='250'>";
 }
 </script>
 
