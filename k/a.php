@@ -5,12 +5,13 @@
 </head>
 <body>
 <h1> งาน k อุบลวรรณ ลีล้าน้อย (พรีม) <br>66010914140 </h1>
-<button onclick="showImage(images/'1.jpg', this)" 
-        style="background-color:green; color:white; padding:10px; border:none;">
+<button style="background-color:green; color:white; padding:10px; border:none;" 
+    onclick="showImage('1.jpg', this)" >
+
     เปิดรูปที่ 1
 </button>
 
-<button onclick="showImage(images/'2.jpg', this)" 
+<button onclick="showImage(a'2.jpg', this)" 
         style="background-color:orange; color:white; padding:10px; border:none;">
     เปิดรูปที่ 2
 </button>
